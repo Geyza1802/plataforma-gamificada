@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial da **EducaPlay**, uma plataforma gamificada vo
 
 ## 🛑 O Problema
 Atualmente, as crianças fazem o uso excessivo de telas, frequentemente ultrapassando o limite de 1h a 2h recomendado pela **Sociedade Brasileira de Pediatria (SBP)**. Esse consumo digital exagerado e passivo causa impactos negativos no desenvolvimento cognitivo, como dificuldades no vocabulário, raciocínio lógico e aprendizagem. 
-Devido à correria diária, many pais utilizam os dispositivos como apoio na rotina, mas carecem de ferramentas com conteúdos seguros, ativos e genuinamente educativos.
+Devido à correria diária, muitos pais utilizam os dispositivos como apoio na rotina, mas carecem de ferramentas com conteúdos seguros, ativos e genuinamente educativos.
 
 ## 💡 A Proposta
 A **EducaPlay** surge como uma plataforma gamificada (App/Web) interativa. Em vez de apenas "entreter", transformamos o tempo de tela em um ambiente de **aprendizado ativo**, atuando como uma ferramenta de auxílio direto para os pais que buscam introduzir rotinas pedagógicas saudáveis para seus filhos.
