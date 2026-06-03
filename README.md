@@ -1,6 +1,6 @@
 # 🎮 EducaPlay: Plataforma Gamificada de Aprendizado Ativo
 
-Bem-vindo ao repositório oficial da **EducaPlay**, uma plataforma gamificada voltada para **Alfabetização, Matemática e Cidadania**. Este projeto foi desenvolvido como parte prática da disciplina de Processo de Desenvolvimento de Software (PDS).
+Bem-vindo ao repositório oficial da **EducaPlay**, uma plataforma gamificada voltada para **Alfabetização, Matemática e Cidadania**. Este projeto foi idealizado e desenvolvido como Trabalho de Conclusão de Curso (TCC).
 
 ---
 
@@ -13,35 +13,24 @@ A **EducaPlay** surge como uma plataforma gamificada (App/Web) interativa. Em ve
 
 ---
 
-## 👥 Organização da Equipe e Papéis
+## 👥 Desenvolvimento Autônomo e Multidisciplinar
+Por se tratar de um projeto de execução individual, todas as etapas do ciclo de vida do software foram assumidas de forma centralizada pelo desenvolvedor, exigindo uma atuação multidisciplinar e a divisão lógica de competências em Engenharia de Software:
 
-Como o nosso time é enxuto, todos os integrantes atuam diretamente no desenvolvimento técnico, acumulando responsabilidades estratégicas de gestão ágil:
-
-### 👩‍💻 Geyza Gonçalves
-* **Papel de Gestão:** Product Owner (PO)
-* **Foco Técnico:** Desenvolvedor Front-end & UI/UX
-* **Responsabilidades:** Definir as prioridades do Backlog; garantir o valor pedagógico real dos jogos e trilhas da EducaPlay; desenhar a interface visual lúdica e focar na experiência do usuário infantil.
-
-### 👩‍💻 Ana Flávia Moisés
-* **Papel de Gestão:** Scrum Master
-* **Foco Técnico:** Desenvolvedor Back-end & QA (Garantia de Qualidade)
-* **Responsabilidades:** Manter o quadro Kanban atualizado; garantir o cumprimento das Sprints de 2 semanas; remover impedimentos da equipe; atuar na lógica de programação e testes de funcionalidades.
-
-### 👩‍💻 Nicolas Avelino
-* **Papel de Gestão:** Lead Developer (Líder Técnico)
-* **Foco Técnico:** Desenvolvedor Back-end & QA (Garantia de Qualidade)
-* **Responsabilidades:** Garantir a integração das funcionalidades do sistema da EducaPlay; modelar a estrutura do banco de dados e segurança de login; validar o funcionamento crítico do Timer SBP e a estabilidade geral da plataforma.
+*   **Engenharia de Requisitos & Concepção Pedagógica:** Responsável pela idealização do valor educativo dos jogos, curadoria das trilhas da EducaPlay, modelagem do backlog e escrita dos critérios de aceitação no formato BDD.
+*   **Design de Interface (UI/UX) & Front-end:** Foco na criação de uma interface visual lúdica, responsiva e adaptada para o uso de crianças pequenas (infância básica), além do desenvolvimento das interações visuais.
+*   **Desenvolvimento Back-end & Testes (QA):** Arquitetura lógica do sistema, estrutura do banco de dados para salvamento de progresso, implementação de regras de negócio (como a restrição do PIN de segurança) e validação técnica do algoritmo crítico do Timer SBP.
 
 ---
 
-## 🛠️ Metodologia Escolhida: Scrumban (Scrum + Kanban)
+## 🛠️ Metodologia Adaptada: Gestão Ágil Solo (Kanban)
 
-Optamos pela fusão das duas metodologias para obter o máximo de eficiência na gestão do nosso trio:
+Para viabilizar a entrega sistemática do MVP sem o suporte de uma equipe, adaptou-se a filosofia ágil para o gerenciamento de tarefas solo:
 
-* **Scrum:** Divisão do projeto em ciclos curtos (**Sprints de 2 semanas**) para garantir entregas incrementais previsíveis e acompanhamento sistemático de progresso.
-* **Kanban:** Quadro visual de tarefas para gerenciar o fluxo de trabalho contínuo, facilitando a identificação imediata de gargalos e impedimentos técnicos.
+*   **Fluxo Incremental:** O cronograma de desenvolvimento foi quebrado em ciclos lógicos de produção, focando primeiro no núcleo funcional do sistema (alta prioridade) para posterior expansão das mecânicas lúdicas secundárias.
+*   **Quadro Visual (Kanban):** Utilizado como ferramenta central de auto-organização e controle do fluxo contínuo de trabalho. A segmentação visual de atividades pendentes, em execução e validadas mitigou o risco de gargalos no desenvolvimento e auxiliou no monitoramento de prazos acadêmicos.
 
-> **Justificativa da Combinação:** O Scrum nos traz a disciplina de prazos essenciais para o calendário acadêmico, enquanto o Kanban melhora drasticamente a visualização das atividades em andamento. Juntas, as abordagens evitam a sobrecarga dos membros que acumulam funções e otimizam a nossa produtividade e flexibilidade.
+> **Justificativa da Abordagem:** A centralização do desenvolvimento exige uma gerência rígida do tempo. A disciplina do controle visual do Kanban impede a dispersão do foco individual, garantindo que o tempo de desenvolvimento seja investido nas funcionalidades que agregam maior valor pedagógico e estabilidade à plataforma.
+
 
 ---
 
